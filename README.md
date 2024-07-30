@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with My Elder
 - 💬 Ask me about Anything
 - 📫 How to reach me: ig : @nabilysuf, +62812374012311
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gcxcetcs7zimgweaa9p8pv46a&count={count}) -->   
