@@ -44,8 +44,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/NabilYsuf/NabilYsuf/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/bal bil bul">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bal%20bil%20bul&count=10" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
